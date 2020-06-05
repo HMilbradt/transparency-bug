@@ -1,2 +1,5 @@
-# transparency-bug
-# transparency-bug
+# To repro:
+
+`npm install`
+
+`node ./index.js`

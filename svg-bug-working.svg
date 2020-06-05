@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-version="3.3.7" data-background-color="#152232" width="598.7249999999999" height="399.15" viewBox="-99.78749999999997 0 598.7249999999999 399.15">
+    <defs>
+        <mask id="5ca8a5b0-a775-11ea-bd82-4f6b93cb575f">
+            <circle r="99.575" cx="200" opacity="0.12" cy="200" fill="white"></circle>
+            <circle r="93.575" cx="200" cy="200" fill="black" opacity="1" stroke-width="0" stroke="transparent" data-fill-palette-color="black" data-stroke-palette-color="transparent" data-palette-color="black"></circle>
+        </mask>
+    </defs>
+    <rect id="background" fill="#152232" width="598.7249999999999" height="399.15" x="-99.78749999999997"></rect>
+    <circle r="99.575" cx="200" cy="200" fill="#ffffff" stroke-width="0" stroke="#ffffff" data-fill-palette-color="secondary" data-stroke-palette-color="secondary" mask="url(#5ca8a5b0-a775-11ea-bd82-4f6b93cb575f)" data-palette-color="#ffffff"></circle>
+</svg> 
